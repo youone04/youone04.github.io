@@ -25,7 +25,8 @@
     color: #594f4f;
 }
 .body-left{
-    height: 100vh;
+    height: auto;
+    background-color: red;
 }
 .title{
     color: #009fff;
