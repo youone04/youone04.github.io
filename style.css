@@ -55,6 +55,12 @@ ul{
 .list-keahlian{
     font-size: 13px;
 }
+.garis-atas{
+    width: 2px;
+    height: 352px;
+    background-color: #009fff;
+    position: relative;
+}
 .garis{
     width: 2px;
     height: 200px;
